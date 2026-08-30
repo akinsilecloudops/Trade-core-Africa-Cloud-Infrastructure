@@ -110,7 +110,7 @@ Based on the business requirements, the proposed architecture aims to:
 
 The proposed AWS architecture is shown below:
 
-![AWS Architecture Diagram](architecture/architecture-diagram.png)
+![AWS Architecture Diagram](architecture-diagram.jpg)
 
 
 ---

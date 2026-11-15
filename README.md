@@ -110,7 +110,7 @@ Based on the business requirements, the proposed architecture aims to:
 
 The proposed AWS architecture is shown below:
 
-![AWS Architecture Diagram](architecture-diagram.jpg)
+![AWS Architecture Diagram](Architectural_diagram.png)
 
 
 ---
@@ -128,7 +128,7 @@ The architecture is designed around the principles of:
 
 The detailed architecture and interaction between AWS services are documented in:
 
-**[Architecture Overview](architecture-overview)**
+**[Architecture Overview](architecture-overview.md)**
 
 ---
 
@@ -136,7 +136,7 @@ The detailed architecture and interaction between AWS services are documented in
 
 Major architectural decisions are documented in:
 
-**[Architecture Decisions](architecture-decision)**
+**[Architecture Decisions](architecture-decision.md)**
 
 These decisions explain the reasoning behind the selection of AWS services and architectural patterns based on the defined business requirements.
 
@@ -157,7 +157,7 @@ Security considerations include:
 
 Detailed security controls can be found in:
 
-**[Security Documentation](security)**
+**[Security Documentation](security.md)**
 
 ---
 
@@ -172,7 +172,7 @@ The disaster recovery strategy is designed around the business-defined:
 
 The recovery architecture, replication strategy, backup mechanisms, failover process, and recovery workflow are documented in:
 
-**[Disaster Recovery Documentation](disaster-recovery)**
+**[Disaster Recovery Documentation](disaster-recovery.md)**
 
 ---
 
@@ -184,7 +184,7 @@ The target is to support up to **10× the normal workload** through horizontal s
 
 Detailed scaling mechanisms are documented in:
 
-**[Scalability Documentation](scalability)**
+**[Scalability Documentation](scalability.md)**
 
 ---
 
@@ -202,7 +202,7 @@ The architecture incorporates monitoring and auditing capabilities to provide vi
 
 Detailed monitoring and logging configurations are documented in:
 
-**[Monitoring & Logging Documentation](monitoring-and-logging)**
+**[Monitoring & Logging Documentation](monitoring-and-logging.md)**
 
 ---
 
@@ -222,7 +222,7 @@ The project evaluates:
 
 Detailed cost considerations are documented in:
 
-**[Cost Optimization Documentation](cost-optimization)**
+**[Cost Optimization Documentation](cost-optimization.md)**
 
 ---
 

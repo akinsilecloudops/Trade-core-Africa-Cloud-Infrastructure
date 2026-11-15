@@ -128,7 +128,7 @@ The architecture is designed around the principles of:
 
 The detailed architecture and interaction between AWS services are documented in:
 
-**[Architecture Overview](architecture/architecture-overview.md)**
+**[Architecture Overview](architecture-overview)**
 
 ---
 
@@ -136,7 +136,7 @@ The detailed architecture and interaction between AWS services are documented in
 
 Major architectural decisions are documented in:
 
-**[Architecture Decisions](architecture/architecture-decisions.md)**
+**[Architecture Decisions](architecture-decision)**
 
 These decisions explain the reasoning behind the selection of AWS services and architectural patterns based on the defined business requirements.
 
@@ -157,7 +157,7 @@ Security considerations include:
 
 Detailed security controls can be found in:
 
-**[Security Documentation](documentation/security.md)**
+**[Security Documentation](security)**
 
 ---
 
@@ -172,7 +172,7 @@ The disaster recovery strategy is designed around the business-defined:
 
 The recovery architecture, replication strategy, backup mechanisms, failover process, and recovery workflow are documented in:
 
-**[Disaster Recovery Documentation](documentation/disaster-recovery.md)**
+**[Disaster Recovery Documentation](disaster-recovery)**
 
 ---
 
@@ -184,7 +184,7 @@ The target is to support up to **10× the normal workload** through horizontal s
 
 Detailed scaling mechanisms are documented in:
 
-**[Scalability Documentation](documentation/scalability.md)**
+**[Scalability Documentation](scalability)**
 
 ---
 
@@ -202,7 +202,7 @@ The architecture incorporates monitoring and auditing capabilities to provide vi
 
 Detailed monitoring and logging configurations are documented in:
 
-**[Monitoring & Logging Documentation](documentation/monitoring-and-logging.md)**
+**[Monitoring & Logging Documentation](monitoring-and-logging)**
 
 ---
 
@@ -222,46 +222,11 @@ The project evaluates:
 
 Detailed cost considerations are documented in:
 
-**[Cost Optimization Documentation](documentation/cost-optimization.md)**
+**[Cost Optimization Documentation](cost-optimization)**
 
 ---
 
-## 13. AWS Services
-
-The final list of AWS services will be added as the architecture is finalized.
-
-| Category               | AWS Services    |
-| ---------------------- | --------------- |
-| Compute                | *To be defined* |
-| Networking             | *To be defined* |
-| Database               | *To be defined* |
-| Storage                | *To be defined* |
-| Security               | *To be defined* |
-| Monitoring             | *To be defined* |
-| Disaster Recovery      | *To be defined* |
-| IAM                    | *To be defined* |
-| Infrastructure as Code | *To be defined* |
-
----
-
-## 14. Project Documentation
-
-| Document                                                         | Description                                        |
-| ---------------------------------------------------------------- | -------------------------------------------------- |
-| [Business Requirements](requirements/business-requirements.md)   | Business objectives and constraints                |
-| [Technical Requirements](requirements/technical-requirements.md) | Technical requirements derived from business needs |
-| [Architecture Overview](architecture/architecture-overview.md)   | Detailed explanation of the proposed architecture  |
-| [Architecture Decisions](architecture/architecture-decisions.md) | Rationale behind major architectural decisions     |
-| [Security](documentation/security.md)                            | Security architecture and controls                 |
-| [High Availability](documentation/high-availability.md)          | Availability and fault-tolerance strategy          |
-| [Disaster Recovery](documentation/disaster-recovery.md)          | RTO, RPO, backup and recovery strategy             |
-| [Scalability](documentation/scalability.md)                      | Scaling and peak-load strategy                     |
-| [Monitoring & Logging](documentation/monitoring-and-logging.md)  | Observability and auditing                         |
-| [Cost Optimization](documentation/cost-optimization.md)          | Cost-management strategy                           |
-
----
-
-## 15. Disclaimer
+## 13. Disclaimer
 
 This is a **cloud architecture design project** created to demonstrate the application of AWS architecture principles to a realistic Nigerian B2B financial workload.
 

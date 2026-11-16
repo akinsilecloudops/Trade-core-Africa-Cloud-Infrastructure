@@ -81,10 +81,6 @@ During invoice processing surges, Target Tracking Auto-Scaling scales Fargate ca
 
 ## 7. Verification & AWS Pricing Calculator Link
 
-The formal AWS Cost Calculator estimate for this multi-region deployment can be verified below:
-
-## 7. Verification & AWS Pricing Calculator Link
-
 The formal AWS Cost Calculator estimate for this multi-region deployment can be reviewed through either of the following references:
 
 * **Committed Architectural Document:** [📄 TradeCore Africa Cost Estimate (PDF)](./Trade-core-Africa-Cloud-Infrastructure/TradeCore_Africa_Cost_Estimate.pdf)

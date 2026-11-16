@@ -8,7 +8,7 @@
 
 ## 1. Security Architecture & Threat Defense Overview
 
-Security across TradeCore Africa is designed around a multi-layered defense-in-depth model. Because the platform processes high-value corporate financial transactions and sensitive financial records, the architecture guarantees that no single perimeter breach can compromise data confidentiality or transactional integrity.
+###Security across TradeCore Africa is designed around a multi-layered defense-in-depth model. Because the platform processes high-value corporate financial transactions and sensitive financial records, the architecture guarantees that no single perimeter breach can compromise data confidentiality or transactional integrity.
 ---
 
 ## 2. Network Segmentation & Perimeter Protection
